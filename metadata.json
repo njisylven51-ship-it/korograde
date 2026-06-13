@@ -1,0 +1,6 @@
+{
+  "name": "KoroGrade",
+  "description": "Automated MCQ Grading and Assessment System for schools, colleges, and universities with student and admin portals, automated grading, and comprehensive analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
